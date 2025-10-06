@@ -1,2 +1,2 @@
 Primera línea de texto.
-Segunda línea desde rama2.
+Segunda línea desde rama3.
