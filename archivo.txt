@@ -1,1 +1,2 @@
 Primera línea de texto.
+Segunda línea desde rama2.
